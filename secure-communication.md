@@ -6,7 +6,7 @@ Secure messaging:
 * Send a message using keybase.io: https://keybase.io/amanqa
 * Secure Email. 🔐 Contact me for public GPG key. 
 
-Secure File Transfer
+Secure file transfer:
 * [Keybase](https://keybase.io/amanqa) for small and medium sized files
 
 
