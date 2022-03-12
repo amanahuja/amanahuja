@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - 🏠 Website: [amanahuja.me](https://amanahuja.me)
 - 💬 How to reach me: [amanahuja.me/contact](https://amanahuja.me/contact)
-- 🔐 Options for [secure communication]() 
+- 🔐 Options for [secure communication](https://github.com/amanahuja/amanahuja/blob/main/secure-communication.md) 
 - 📅 request a meeting [directly on calendly](https://calendly.com/amanahuja/)
 
 
